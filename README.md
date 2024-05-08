@@ -1,4 +1,2 @@
 # FIFA-2022-PLAYERS-DATA-SET-----Unsupervised-learning
-In this project i have done -
-EDA,
-Data Preprocession ...
+Dataset - https://www.kaggle.com/datasets/shivammishra3/fifa-2022-players-data-set
